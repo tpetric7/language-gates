@@ -1,0 +1,13 @@
+baseurl: https://example.com
+title: Hugo Themes - aether
+author: Joe Hutchinson
+canonifyurls: yes
+paginate: 3
+theme: aether
+params:
+  brand: aether
+  description: aether Hugo theme for blogs
+  headshotimg: img/faceshot.jpg
+markup:
+  highlight:
+    style: igor

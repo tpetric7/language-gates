@@ -1,6 +1,6 @@
 baseurl: /
-title: Hugo Themes - aether
-author: Joe Hutchinson
+title: Language Gates
+author: Teodor Petrič
 canonifyurls: yes
 paginate: 3
 theme: aether

@@ -9,7 +9,7 @@ themesDir = "../../"
 [params]
     brand = "aether"
     description = "aether Hugo theme for blogs"
-    headshotimg = "img/faceshot.jpg"
+    headshotimg = "img/faceshot.gif"
 
 [markup]
   [markup.highlight]

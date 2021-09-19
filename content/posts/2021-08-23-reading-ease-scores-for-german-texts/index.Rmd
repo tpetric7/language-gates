@@ -14,7 +14,7 @@ displayInMenu: no
 displayInList: yes
 resources:
 - name: featuredImage
-  src: ''pictures/rolling_stones_tweets_animated.gif"
+  src: ''pictures/Wals_SO.png"
   params:
     description: ''
     attribution:

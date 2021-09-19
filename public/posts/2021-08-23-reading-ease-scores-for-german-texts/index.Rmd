@@ -13,8 +13,8 @@ dropCap: yes
 displayInMenu: no
 displayInList: yes
 resources:
-  name: featuredImage
-  src: ''
+- name: featuredImage
+  src: ''pictures/Wals_SO.png"
   params:
     description: ''
     attribution:

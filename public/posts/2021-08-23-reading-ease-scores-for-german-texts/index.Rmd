@@ -14,7 +14,7 @@ displayInMenu: no
 displayInList: yes
 resources:
 - name: featuredImage
-  src: ''pictures/Wals_SO.png"
+  src: 'pictures/Wals_SO.png'
   params:
     description: ''
     attribution:
@@ -26,9 +26,7 @@ resources:
 
 ## Zur theoretischen Begründung
 
-https://de.wikipedia.org/wiki/Lesbarkeitsindex:
-  
-  "Lesbarkeitsformeln sind in der Forschung weitgehend etabliert. Viele, die sich mit Lesbarkeitsformeln befassen, stellen sich dennoch die Frage, wieso man bei Berücksichtigung nur sehr weniger Kriterien Aufschluss über die Lesbarkeit von Texten erhalten kann. Man hat ja doch leicht den Eindruck, dass Wort- und Satzlänge keine besonders triftigen Kriterien sein sollten. Schaut man sich aber an, mit welchen anderen Kriterien diese beiden genannten – und andere – verknüpft sind, kann man erkennen, dass zwar nur zwei Texteigenschaften direkt gemessen werden, damit aber indirekt eine ganze Reihe andere ebenfalls berücksichtigt werden."
+>"Lesbarkeitsformeln sind in der Forschung weitgehend etabliert. Viele, die sich mit Lesbarkeitsformeln befassen, stellen sich dennoch die Frage, wieso man bei Berücksichtigung nur sehr weniger Kriterien Aufschluss über die Lesbarkeit von Texten erhalten kann. Man hat ja doch leicht den Eindruck, dass Wort- und Satzlänge keine besonders triftigen Kriterien sein sollten. Schaut man sich aber an, mit welchen anderen Kriterien diese beiden genannten – und andere – verknüpft sind, kann man erkennen, dass zwar nur zwei Texteigenschaften direkt gemessen werden, damit aber indirekt eine ganze Reihe andere ebenfalls berücksichtigt werden." [Wikipedia](https://de.wikipedia.org/wiki/Lesbarkeitsindex):
 
 
 ## Programme

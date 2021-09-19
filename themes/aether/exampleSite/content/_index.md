@@ -1,5 +1,5 @@
 ---
-title: "Language Gates"
-date: 2021-09-19T15:55:15-04:00
-description: "Language blogs and tutorials written in R"
+title: "aether"
+date: 2018-04-27T09:46:15-04:00
+description: "A clean Hugo theme for blogs emphasizing motion, material, and depth."
 ---

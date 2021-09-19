@@ -13,8 +13,8 @@ dropCap: yes
 displayInMenu: no
 displayInList: yes
 resources:
-  name: featuredImage
-  src: ''
+- name: featuredImage
+  src: ''pictures/rolling_stones_tweets_animated.gif"
   params:
     description: ''
     attribution:
